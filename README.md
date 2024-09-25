@@ -1,4 +1,5 @@
 Project Title: Uber’s Ethical Dilemma: A Look Into the Scandals Leading to Travis Kalanick’s 2017 Resignation
+
 Course: ENG 3100: Business Writing -- Walker College of Business
 
 This report presents an in-depth analysis of the ethical challenges that led to Travis Kalanick’s resignation as CEO of Uber in 2017. Through a critical examination of key issues such as regulatory evasion, workplace harassment, and a data breach cover-up, I highlight the vital importance of ethical leadership and corporate credibility in business.
